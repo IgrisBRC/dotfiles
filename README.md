@@ -2,10 +2,10 @@
 
 This includes
 
-#Window manager configuration (awesomeWM)
+Window manager configuration (awesomeWM)
 
-# neovim configuration
+neovim configuration
 
-# compositor configuration (picom)
+compositor configuration (picom)
 
-# terminal emulator configuration (alacritty)
+terminal emulator configuration (alacritty)
